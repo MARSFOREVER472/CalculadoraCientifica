@@ -1,4 +1,4 @@
-- In this tutorial we will be making a Simple Calculator using JavaScript.
+- _In this tutorial we will be making a Simple Calculator using JavaScript._
 - There will be some elements of HTML and CSS with this tutorial but the main focus is using and getting used to JavaScript Syntaxes.
 - JavaScript is very similar to C# Syntaxes we have used so far but there are some subtle differences with both of them and they both do very different things in the world of software engineering.
 - JavaScript is the most popular programming language and it has been on top of the charts for a very long time.
