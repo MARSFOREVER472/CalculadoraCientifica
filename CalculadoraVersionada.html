@@ -47,12 +47,12 @@
 
         a{
             padding: 10px;
-            text-align: canter;
+            text-align: center;
             margin: 10px;
             width: 15%;
             background-color:fuchsia;
             border: 2px solid black;
-            border-radius: 10px;
+            border-radius: 5px;
             display: inline-block;
             color: white;
         }
@@ -69,4 +69,17 @@
         }
     </style>
     </head>
+    <body>
+        <div id="main">
+            <h1>Calculadora JavaScript!!!!!</h1>
+            <input type="text" id="numA">
+            <input type="text" id="numB">
+            <p>Ingrese 2 numeros encima y luego haz click en la opcion de abajo!!!!!</p>
+            <a href="javascript:void(0);" onclick="LetsDoMath('add')">Add</a>
+            <a href="javascript:void(0);" onclick="LetsDoMath('subtract')">Subtract</a>
+            <a href="javascript:void(0);" onclick="LetsDoMath('multiply')">Multiply</a>
+            <a href="javascript:void(0);" onclick="LetsDoMath('divide')">Divide</a>
+            <p id="total">Numero total: 0000</p>
+        </div>
+    </body>
 </html>
