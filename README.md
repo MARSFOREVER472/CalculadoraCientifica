@@ -6,6 +6,6 @@
 - **_I found that it was very easy to move over to JavaScript however it is important to know that you will need to have a brief understanding of HTML and CSS._**
 - **_JavaScript doesn’t handle the Images and page elements on its own therefore we need to learn a little bit of HTML and CSS to get us up to speed on this._**
 - **_This is the first of a series of tutorials I will be publishing on the website around JavaScript projects and Games Development._**
-- _Hope you enjoy this one._
+- **_Hope you enjoy this one._**
 
 _Let's get started!_
