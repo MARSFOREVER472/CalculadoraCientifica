@@ -8,4 +8,4 @@
 - **_This is the first of a series of tutorials I will be publishing on the website around JavaScript projects and Games Development._**
 - **_Hope you enjoy this one._**
 
-_Let's get started!_
+**_Let's get started!_**
