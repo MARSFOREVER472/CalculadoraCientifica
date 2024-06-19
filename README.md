@@ -21,4 +21,5 @@
 - JavaScript no maneja las imágenes y los elementos de la página por sí solo, por lo que necesitamos aprender un poco de HTML y CSS para ponernos al día con esto.
 - Este es el primero de una serie de tutoriales que publicaré en el sitio web sobre proyectos de JavaScript y desarrollo de juegos.
 - Espero que disfrutes esta instancia.
+
 ¡Empecemos!
