@@ -18,7 +18,7 @@
 - JavaScript es el lenguaje de programación más popular y ha estado en la cima de las listas durante mucho tiempo.
 - He estado planeando hacer muchos tutoriales de JavaScript para este sitio web por un tiempo y quiero explorar el elemento de desarrollo de juegos de JavaScript.
 - Descubrí que era muy fácil pasar a JavaScript; sin embargo, es importante saber que necesitarás tener un breve conocimiento de HTML y CSS.
-JavaScript no maneja las imágenes y los elementos de la página por sí solo, por lo que necesitamos aprender un poco de HTML y CSS para ponernos al día con esto.
+- JavaScript no maneja las imágenes y los elementos de la página por sí solo, por lo que necesitamos aprender un poco de HTML y CSS para ponernos al día con esto.
 Este es el primero de una serie de tutoriales que publicaré en el sitio web sobre proyectos de JavaScript y desarrollo de juegos.
 Espero que disfrutes esta.
 ¡Empecemos!
