@@ -22,4 +22,4 @@
 - **_Este es el primero de una serie de tutoriales que publicaré en el sitio web sobre proyectos de JavaScript y desarrollo de juegos._**
 - **_Espero que disfrutes esta instancia._**
 
-_¡Empecemos!_
+**_¡Empecemos!_**
