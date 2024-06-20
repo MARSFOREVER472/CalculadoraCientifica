@@ -12,7 +12,7 @@
 
 **_Let's get started!_**
 
-- _En este tutorial crearemos una calculadora simple usando JavaScript._
+- **_En este tutorial crearemos una calculadora simple usando JavaScript._**
 - _Habrá algunos elementos de HTML y CSS en este tutorial, pero el enfoque principal es usar y acostumbrarse a las sintaxis de JavaScript._
 - _JavaScript es muy similar a las sintaxis de C# que hemos usado hasta ahora, pero existen algunas diferencias sutiles con ambas y ambas hacen cosas muy diferentes en el mundo de la ingeniería de software._
 - _JavaScript es el lenguaje de programación más popular y ha estado en la cima de las listas durante mucho tiempo._
