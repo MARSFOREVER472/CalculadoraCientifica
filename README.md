@@ -20,6 +20,6 @@
 - **_Descubrí que era muy fácil pasar a JavaScript; sin embargo, es importante saber que necesitarás tener un breve conocimiento de HTML y CSS._**
 - **_JavaScript no maneja las imágenes y los elementos de la página por sí solo, por lo que necesitamos aprender un poco de HTML y CSS para ponernos al día con esto._**
 - **_Este es el primero de una serie de tutoriales que publicaré en el sitio web sobre proyectos de JavaScript y desarrollo de juegos._**
-- _Espero que disfrutes esta instancia._
+- **_Espero que disfrutes esta instancia._**
 
 _¡Empecemos!_
