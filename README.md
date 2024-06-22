@@ -12,7 +12,7 @@
 
 **_Let's get started!_**
 
-Lesson Objectives:
+### Lesson Objectives:
 
 Make a  Calculator App in JavaScript
 Do basic HTML and CSS styling on the single page
