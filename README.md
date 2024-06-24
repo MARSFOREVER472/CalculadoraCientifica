@@ -15,7 +15,7 @@
 ### Lesson Objectives:
 
 - **_Make a Simple Calculator App in JavaScript._**
-- **_Do basic HTML and CSS styling on the single page_**
+- **_Do basic HTML and CSS styling on the single page._**
 - Capture values from an input box in HTML and PARSE it as an INTEGER
 - Create s single function to work with Add, Subtract, Multiply and Divide method
 - Use a Switch statement inside of the class to get relevant results
