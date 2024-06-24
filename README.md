@@ -40,6 +40,6 @@
 - _Cree una aplicación de calculadora simple en JavaScript._
 - _Realice estilos básicos de HTML y CSS en una sola página._
 - _Capture valores de un cuadro de entrada en HTML y analícelos como un INTEGER._
-- Cree una función única para trabajar con el método Sumar, Restar, Multiplicar y Dividir.
+- _Cree una función única para trabajar con el método Sumar, Restar, Multiplicar y Dividir._
 - Utilice una declaración Switch dentro de la clase para obtener resultados relevantes.
 - Utilice parámetros en la función.
