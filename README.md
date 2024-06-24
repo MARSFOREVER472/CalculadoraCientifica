@@ -18,7 +18,7 @@
 - **_Do basic HTML and CSS styling on the single page._**
 - **_Capture values from an input box in HTML and PARSE it as an INTEGER._**
 - **_Create s single function to work with Add, Subtract, Multiply and Divide method._**
-- **_Use a Switch statement inside of the class to get relevant results_**
+- **_Use a Switch statement inside of the class to get relevant results._**
 - **_Use parameters in the function._**
 
 **_Traducido del español:_**
