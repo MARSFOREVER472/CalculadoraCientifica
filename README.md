@@ -12,6 +12,15 @@
 
 **_Let's get started!_**
 
+### Lesson Objectives:
+
+- **_Make a Simple Calculator App in JavaScript._**
+- **_Do basic HTML and CSS styling on the single page._**
+- **_Capture values from an input box in HTML and PARSE it as an INTEGER._**
+- **_Create s single function to work with Add, Subtract, Multiply and Divide method._**
+- **_Use a Switch statement inside of the class to get relevant results._**
+- **_Use parameters in the function._**
+
 **_Traducido del español:_**
 
 - **_En este tutorial crearemos una calculadora simple usando JavaScript._**
@@ -25,3 +34,12 @@
 - **_Espero que disfrutes esta instancia._**
 
 **_¡Empecemos!_**
+
+### Objetivos de la lección:
+
+- **_Cree una aplicación de calculadora simple en JavaScript._**
+- **_Realice estilos básicos de HTML y CSS en una sola página._**
+- **_Capture valores de un cuadro de entrada en HTML y analícelos como un INTEGER._**
+- **_Cree una función única para trabajar con el método Sumar, Restar, Multiplicar y Dividir._**
+- **_Utilice una declaración Switch dentro de la clase para obtener resultados relevantes._**
+- **_Utilice parámetros en la función._**
