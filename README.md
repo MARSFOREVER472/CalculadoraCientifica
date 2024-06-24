@@ -37,7 +37,7 @@
 
 ### Objetivos de la lección:
 
-- Cree una aplicación de calculadora simple en JavaScript.
+- _Cree una aplicación de calculadora simple en JavaScript._
 - Realice estilos básicos de HTML y CSS en una sola página.
 - Capture valores de un cuadro de entrada en HTML y analícelos como un INTEGER.
 - Cree una función única para trabajar con el método Sumar, Restar, Multiplicar y Dividir.
