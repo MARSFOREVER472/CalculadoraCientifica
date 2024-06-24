@@ -35,7 +35,7 @@
 
 **_¡Empecemos!_**
 
-Objetivos de la lección:
+### Objetivos de la lección:
 Cree una aplicación de calculadora simple en JavaScript.
 Realice estilos básicos de HTML y CSS en una sola página.
 Capture valores de un cuadro de entrada en HTML y analícelos como un INTEGER.
