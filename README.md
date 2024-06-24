@@ -41,5 +41,5 @@
 - Realice estilos básicos de HTML y CSS en una sola página.
 - Capture valores de un cuadro de entrada en HTML y analícelos como un INTEGER.
 - Cree una función única para trabajar con el método Sumar, Restar, Multiplicar y Dividir.
-Utilice una declaración Switch dentro de la clase para obtener resultados relevantes.
+- Utilice una declaración Switch dentro de la clase para obtener resultados relevantes.
 Utilice parámetros en la función.
