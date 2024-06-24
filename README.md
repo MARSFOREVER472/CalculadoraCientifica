@@ -17,7 +17,7 @@
 - **_Make a Simple Calculator App in JavaScript._**
 - **_Do basic HTML and CSS styling on the single page._**
 - **_Capture values from an input box in HTML and PARSE it as an INTEGER._**
-- _Create s single function to work with Add, Subtract, Multiply and Divide method_
+- **_Create s single function to work with Add, Subtract, Multiply and Divide method_**
 - Use a Switch statement inside of the class to get relevant results
 - Use parameters in the function
 
